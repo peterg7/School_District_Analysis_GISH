@@ -25,7 +25,7 @@ Software:
 - Anaconda 4.7.12
 
 ## Summary
-*refer to JupyterNotebook*
+*refer to JupyterNotebook for tables for the District Summary, School Summaries, Math and Reading Scores by Grade, Scores by School, Scores by School Spending, Scores by School Size, and Scores by School Type*
 
 ## Challenge Overview
 The grades of ninth graders at Thomas High School have been changed due to some extent of academic dishonesty. All the math and reading scores of the ninth graders at Thomas High School must be removed.
@@ -37,7 +37,7 @@ Compared to the original district summary, the adjusted one shows a .1 drop in A
 **How is the school summary affected?**  
 Removing the ninth-grade scores resulted in a 26.3609% drop in `% Passing Math`, a 27.6453% drop in `% Passing Reading`, and a 27.003% drop in `% Overall Passing`.
 
-**How does removing the ninth grader`s math and reading scores affect Thomas High School`s performance, relative to other schools?**  
+**How does removing the ninth grader's math and reading scores affect Thomas High School`s performance, relative to other schools?**  
 Compared to other schools, Thomas High School went from having the 2nd highest `% Overall Passing` to 11th highest after removing the ninth-grade scores.
 
 **How does removing the ninth-grade scores affect the Math and Reading Scores By Grade, Scores by School, Scores by School Spending, Scores by School Size, and Scores by School Type?**  
